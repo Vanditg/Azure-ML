@@ -1,0 +1,21 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Brief History of Machine Learning
+##===================================
+
+Question 1:
+There is often confusion between the terms machine learning, deep learning, and artificial intelligence. See if you can match each term with its description:
+
+Ans:
+	Description										Term
+	
+- A broad term that refers to computers 			- Artificial Intelligence
+  thinking more like humans.
+- A subcategory of artificial intelligence 			- Machine Learning
+  that involves learning from data without 
+  being explicitly programmed.
+- A subcategory of machine learning that 			- Deep Learning
+  uses a layered neural-network architecture
+  originally inspired by the human brain.
