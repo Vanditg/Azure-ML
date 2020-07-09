@@ -1,0 +1,59 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Approaches to Machine Learning
+##===================================
+
+Question 1:
+For each of the descriptions given below, mark which general approach to machine learning it best describes.
+
+Ans:
+DESCRIPTION							APPROACH
+
+- Learns how an agent should take	- Reinforcement Learning
+  actions in an environment to 
+  maximize a reward function
+- Learns from data that contains	- Unsupervised Learning 
+  only the inputs
+- Learns from data that contains 	- Supervised Learning
+  both the inputs and expected 
+  outputs
+- Finds hidden structures in data	- Unsupervised Learning
+
+Question 2:
+Now let's get a bit more specific. All of the descriptions below refer to some type of supervised learning. Can you match them up?
+
+Ans:
+DESCRIPTION							TYPE OF SUPERVISED LEARNING
+
+- Yields discrete categorical 		- Classification
+  outputs
+- Learns from data labeled as 		- Anomaly Detection
+  normal/abnormal
+- Yields continuous numerical 		- Regression
+  outputs
+- Characteristics of the data are 	- Feature Learning 
+  learned using labeled data
+- Learns from examples using a 		- Similarity Learning
+  similarity function
+  
+Question 3:
+All of the descriptions below refer to some type of unsupervised learning. Can you match them up?
+
+Ans:
+DESCRIPTION									TYPE OF UNSUPERVISED LEARNING
+
+- Assigns entities to clusters or groups	- Clustering 
+- Learns from unlabeled data assuming 		- Anomaly Detection
+  most entities are normal
+- Features are learned from unlabeled 		- Feature Learning
+  data
+ 
+Question 4:
+Harry is an IT admin responsible for managing a legacy Web application. He has access to server performance logs with real-time system performance metrics (CPU, memory utilization, number of user sessions, number of threads, etc.). His task is to use ML to generate automated real-time alerts for preemptively detecting potential service outages.
+
+What type of ML algorithm should Harry use?
+
+Ans:
+- Unsupervised
