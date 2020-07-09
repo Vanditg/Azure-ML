@@ -1,0 +1,22 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: The Tools for Machine Learning
+##===================================
+
+Question 1:
+Below are the development environments we just discussed. Can you match each one with its description?
+
+Ans:
+DESCRIPTION 											DEVELOPMENT ENVIRONMENT
+
+- Microsoft's core development environment				- Visual Studio
+
+- Open-source tool that can combine code, markdown, 	- Jupyter Notebooks
+  and visualizations together in a single document.
+
+- A light-weight code editor from Microsoft				- Visual Studio Code
+
+- Data analytics platform, optimized for use with 		- Azure Databricks
+  Microsoft cloud services
