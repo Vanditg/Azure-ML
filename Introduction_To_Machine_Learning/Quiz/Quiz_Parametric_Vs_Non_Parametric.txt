@@ -1,0 +1,37 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Parametric Vs. Non-parametric 
+##===================================
+
+Question 1:
+Which of these sentences are true statements about Machine Learning? (Select all that apply.)
+
+Ans:
+- When there is less training data available, simplifying the form of the mapping function to a linear regression model would be the way to go. 
+- Non-parametric algorithms do not make assumptions regarding the form of the mapping between input data and output, so they are free to learn any functional form from the training data. 
+
+Question 2:
+For the characteristics listed below, see if you can categorize each of them as being more true about parametric or non-parametric algorithms.
+
+Ans:
+CHARACTERISTIC								PARAMETRIC OR NON-PARAMETRIC?
+
+- Slower to train, generally having 		- Non-parametric
+  far more parameters
+- Simpler and easier to understand; 		- Parametric
+  easier to interpret the results
+- Suitable for problems of limited 			- Parametric
+  complexity
+- High flexibility; capable of fitting		- Non-parametric
+  a large number of functional forms
+  
+Question 3:
+Which of the following algorithms are parametric?
+
+(Select all that apply.)
+
+Ans:
+- Logistic Regression
+- Multiple Linear Regression
