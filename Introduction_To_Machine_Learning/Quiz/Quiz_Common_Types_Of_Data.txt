@@ -1,0 +1,21 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Common Types of Data
+##===================================
+
+Question 1:
+Have a look at this graph:
+Population of Greece since 1961 (Wikimedia Commons)
+What type of data is this?
+
+Ans:
+- Time-series 
+
+Question 2:
+Have a look at this chart showing the number of people who like each flavor of ice cream:
+What type of data is this?
+
+Ans:
+- Categorical
