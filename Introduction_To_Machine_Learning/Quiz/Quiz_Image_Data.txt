@@ -1,0 +1,23 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Image Data
+##===================================
+
+Question 1:
+Assume this figure is the numerical representation of an RGB image in the red channel:
+
+Each of the squares represents one pixel and the value in the square is the pixel value.
+
+Which of these statements is incorrect?
+
+Ans:
+- The total number of pixels in this image is 48. 
+
+Question 2:
+There is a square shaped RGB image that consists of 900 pixels. Which of the following statements are correct?
+
+Ans:
+- This image has a dimension of 30*30. 
+- If the image is converted to grayscale, it can be encoded by vector with the dimension 30*30*1. 
