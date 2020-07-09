@@ -1,0 +1,41 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Encoding Categorical Data
+##===================================
+
+Question 1:
+Have a look at this tabular data:
+
+ID	Mammal	Reptile	Fish
+012	1		0		0
+204	0		0		1
+009	0		1		0
+105	1		0		0
+What type of encoding has been performed on this?
+
+Ans:
+- One-hot encoding
+
+Question 2:
+Looking again at the table in the previous question, what category is animal 204?
+
+Ans:
+- Fish
+
+Question 3:
+Again looking at the above animals table, suppose we do the following:
+
+Add two new categories, Amphibian and Bird
+Add one bird with ID 303 in the table
+Which one of the following statements is correct about the new table?
+
+Ans:
+- The Amphibian column has 0 for all animals.
+
+Question 4:
+John is looking to train his first machine learning model. One of his inputs includes the size of the T-Shirts, with possible values of XS, S, M, L, and XL. What is the best approach John can employ to preprocess the T-Shirt size input feature?
+
+Ans:
+- One-hot encoding
