@@ -1,0 +1,54 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: What is Machine Learning?
+##===================================
+
+Question 1:
+What type of approach is shown in this image?
+------
+Rules | ---- >
+------        |-------|
+              |   ?   | ---- > Answers
+------        |-------|
+Data  | ---- >
+------
+Ans:
+- Traditional Programming 
+
+Question 2:
+What type of approach is shown in this image?
+------
+Data  | ---- >
+------        |-------|
+              |   ?   | ---- > Rules
+------        |-------|
+Answers | ---- >
+------
+
+Ans:
+- Machine Learning
+
+Question 3:
+Imagine you want to create a function that multiplies two numbers together (e.g., given the inputs 2 and 3, the function will generate the output 6).
+What approach is best suited to this problem?
+
+Ans:
+- Traditional Programming
+
+Question 4:
+Now imagine that you have some images that contain handwritten numbers. You want to create a program that will recognize which number is in each picture, but you're not sure exactly what characteristics can be used to best tell the numbers apart.
+Which is the best approach for creating this program?
+
+Ans:
+- Machine Learning
+
+Question 5:
+In traditional programming, the inputs of hard-coded rules and data are used to arrive at the output of answers, but in machine learning the approach is quite different.
+Mark all of the options below that are true statements about machine learning.
+
+Ans:
+- Data is input to train an algorithm. 
+- Historical answers are input to train an algorithm.
+- Rules are the output learned by the algorithm. 
