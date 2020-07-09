@@ -1,0 +1,31 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Tabular Data
+##===================================
+
+Question 1:
+SKU		Make	Color	Quantity	Price
+908721	Guess	Blue	789			45.33
+456552	Tillys	Red		244			22.91
+789921	A&F		Green	387			25.92
+872266	Guess	Blue	154			17.56
+Looking at the table above, can you figure out what the rows vs. columns are for?
+
+Ans:
+- Each row describes a single product (e.g., a shirt), while each column describes a property the products can have (e.g., the color of the product)
+
+Question 2:
+Below are the components of a table. What does each of these components represent?
+
+Ans:
+	WHAT IT REPRESENTS				COMPONENT
+
+- An item or entity.				- Row
+
+- A property that the items 		- Column
+  or entities in the table can 
+  have.
+
+- A single value.					- Cell
