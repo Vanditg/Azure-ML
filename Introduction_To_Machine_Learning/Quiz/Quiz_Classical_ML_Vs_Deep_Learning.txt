@@ -1,0 +1,23 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Classical ML Vs. Deep Learning
+##===================================
+
+Question 1:
+Which of these statements is true about classical ML vs. deep learning?
+
+Ans:
+- All deep learning algorithms are machine learning algorithms. 
+
+Question 2:
+For each of the characteristics below, does it better describe classical ML or deep learning?
+
+Ans:
+CHARACTERISTIC											CLASSICAL ML OR DEEP LEARNING?
+
+- Models lack transparency and are difficult to explain	- Deep Learning
+- Easier to interpret the results						- Classical ML 
+- Can learn arbitrarily complex functions from data		- Deep Learning
+- Needs explicit feature engineering					- Classical ML
