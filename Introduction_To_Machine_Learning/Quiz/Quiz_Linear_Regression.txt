@@ -1,0 +1,28 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Linear Regression
+##===================================
+
+Question 1:
+For the earlier example of students studying for a test, suppose that we find that the line of best fit is:
+
+y = 15 x + 3y=15x+3
+
+Where xx is the number of hours studied and yy is the number of questions correctly answered.
+
+If a student studied 10 hours for the test, what is their predicted score?
+
+Ans:
+- 153
+
+Question 2:
+Thinking back to the models vs. algorithms distinction, is our equation…
+
+y = 15 x + 3y=15x+3
+
+…best described as a model or an algorithm?
+
+Ans:
+- y = 15x + 3 is a model
