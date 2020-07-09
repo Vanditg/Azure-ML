@@ -1,0 +1,20 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Models vs Algorithms
+##===================================
+
+Question 1:
+Which of these are examples of algorithms and which are examples of models?
+
+Ans:
+EXAMPLE								ALGORITHM OR MODEL?
+
+- Least Squares Linear Regression	- Algorithm
+
+- Convolutional neural network		- Algorithm
+
+- Set of coefficients				- Model
+
+- An equation learned from data		- Model
