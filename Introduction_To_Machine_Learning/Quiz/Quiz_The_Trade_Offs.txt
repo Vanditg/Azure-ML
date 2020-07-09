@@ -1,0 +1,46 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: The Trade-offs
+##===================================
+
+Question 1:
+Here are the main terms we just discussed. See if you can match each of them with its description.
+
+Ans:
+DESCRIPTION										TERM
+
+- Error that occurs when the model is too		- Variance
+  sensitive to the training data (thus giving 	
+  different estimates when given new training 
+  data)
+- Modeling the training data well, but not 		- Overfitting 
+  generalizing well to new data
+- failing to model the training data and 		- Underfitting 
+  failing to generalize to new data
+- Error that results from inaccurate 			- Bias
+  assumptions in model training (that 
+  are made to simplify the training process)
+  
+Question 2:
+In machine learning, we often refer to a model as being overfitted when...
+
+Ans:
+- It is learning the training data too well at the expense of not generalizing well to new data. 
+
+Question 3:
+Which one of the statements is true about bias and variance.
+
+Ans:
+- Increased model complexity generally increases variance. 
+
+Question 4:
+Which technique can be used to reduce overfitting?
+
+(Select all that apply.)
+
+Ans:
+- Have a validation dataset
+- Use k-fold cross-validation
+- Use PCA
