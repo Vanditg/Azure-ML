@@ -1,0 +1,33 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Scalling Data
+##===================================
+
+Question 1:
+Which of the below refers to standardization and which refers to normalization?
+
+Ans:
+DESCRIPTION 								STANDARDIZATION OR NORMALIZATION?
+
+- Rescales the data to have mean = 0 		- Standardization
+  and standard deviation = 1
+
+- Rescales the data into the range [0, 1]	- Normalization
+
+- (𝑥 −𝑥𝑚𝑖𝑛)/(𝑥𝑚𝑎𝑥 −𝑥𝑚𝑖𝑛)						- Normalization
+
+- (𝑥 − 𝜇)/𝜎									- Standardization
+
+Question 2:
+Standardize -5,10,15. Knowing that the mean is 7 and the standard deviation is 10. Use commas to separate numbers and keep one decimal place (e.g. 1.0,2.3,3.0 or -1.5,1.1,2.4)
+
+Ans:
+- -1.2, 0.3, 0.8 
+
+Question 3:
+Normalize -5,10,15. Knowing that the mean is 7 and the standard deviation is 10. Use commas to separate numbers and keep one decimal place (e.g. 1.0,2.3,3.0 or -1.5,1.1,2.4)
+
+Ans:
+- 0.0, 0.8, 1.0
