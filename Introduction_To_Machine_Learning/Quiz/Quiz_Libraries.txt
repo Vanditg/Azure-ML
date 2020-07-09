@@ -1,0 +1,18 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Libraries
+##===================================
+
+Question 1:
+Below are some of the libraries we just went over. See if you can match each library with its main focus.
+
+Ans:
+LIBRARY 			WHAT IS IT FOR?
+
+- TensorFlow		- Machine Learning
+- Matplotlib		- Data Visualization
+- Pandas			- Analyzing/Manipulating Data
+- PyTorch			- Machine Learning
+- Bokeh				- Data Visualization
