@@ -1,0 +1,41 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: The Computer Science Perspective
+##===================================
+
+Question 1:
+Have a look at this data:
+
+ID	Name	Species	Age
+1	Jake	Cat		3
+2	Bailey	Dog		7
+-3	-Jenna	-Dog	-4
+4	Marco	Cat		12
+Which of the following terms might we use to refer to the part of the table that is highlighted?
+
+(Select all that apply.)
+
+Ans:
+- A row
+- An entity
+- An instance 
+- An input vector 
+
+Question 2:
+And how about now?
+
+ID	Name	-Species	Age
+1	Jake	-Cat		3
+2	Bailey	-Dog		7
+3	Jenna	-Dog		4
+4	Marco	-Cat		12
+Which of the following terms might we use to refer to the part of the table that is highlighted?
+
+(Select all that apply.)
+
+Ans:
+- A column
+- An attribute 
+- A feature
