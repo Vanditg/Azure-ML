@@ -1,0 +1,44 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Text Data
+##===================================
+
+Question 1:
+Here's another example:
+
+Original text					Normalized text
+Mary had a little lamb.			[Mary, have, a, little, lamb]
+Jack and Jill went up the hill.	[Jack, and, Jill, go, up, the, hill]
+London bridge is falling down.	[London, bridge, be, fall, down]
+
+Looking at the normalized text, which of the following have been done?
+
+Ans:
+- Tokenization
+- Lemmatization
+
+Question 2:
+Let's pause to make sure this idea is clear. In the table above, what does the value 0.56 mean?
+
+Ans:
+- It means that the word rabid has some importance in rabid, hare. 
+
+Question 3:
+What vector will be used to represent 'Quick, lazy hare'.
+
+Ans:
+- [0.32, 0.0, 0.12, 0.0, 0.0, 0.12]
+
+Question 4:
+Imagine the words "monkey", "rabbit", "bird" and "raven" are represented by vectors with the same length. Based on the meanings of the words, which two words would we expect to have the smallest vector distance?
+
+Ans:
+- 'Raven' and 'Bird'
+
+Question 5:
+What is the typical pipeline for a classification model using text data?
+
+Ans:
+- Normalize text > Vectorize text > Train model > Deploy model
