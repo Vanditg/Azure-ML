@@ -1,0 +1,27 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Cloud Services
+##===================================
+
+Question 1:
+Below are some of the features we just went over. Can you match each one with its description?
+
+Ans:
+DESCRIPTION									FEATURE
+
+- A drag-and-drop tool that lets you 		- The Designer 
+  create machine learning models without 
+  writing any code.
+
+- A centralized place to work with all 		- The Azure ML Workspace
+  the artifacts you create.
+  
+- A designated resource/environment where 	- Compute Target
+  you run your training script or host 
+  your service deployment.
+
+- Attached storage account in which you 	- Data Store
+  can keep data for your machine learning 
+  workspace.
