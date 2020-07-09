@@ -1,0 +1,27 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Learning Functions
+##===================================
+
+Question 1:
+The goal of machine learning algorithms can be represented as a learning function:
+
+Y = f(X) + eY=f(X)+e
+
+What does each part of this represent?
+
+Ans:
+PART			DESCRIPTION
+
+- Y				- Output variable 
+- X				- Input variable
+- f				- The target function
+- e				- Irreducible error
+
+Question 2:
+Which of the following statements is most accurate about machine learning?
+
+Ans:
+- In practice, it is often best to try a variety of algorithms and compare the results to see which produces the function with the least error. 
