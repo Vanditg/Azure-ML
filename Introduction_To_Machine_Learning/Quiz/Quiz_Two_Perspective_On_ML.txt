@@ -1,0 +1,15 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 2: Introduction to Machine Learning 
+## Year: 2020
+## Sub-lesson: Two Perspective on ML
+##===================================
+
+Question 1:
+Can you match the terms below, from the computer science perspective, with their counterparts from the statistical perspective?
+
+Ans:
+		Computer Science			Statistical 
+		- Program 					- Function
+		- Input						- Independent Variable 
+		- Output					- Dependent Variable
