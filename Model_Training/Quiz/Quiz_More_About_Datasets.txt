@@ -1,0 +1,15 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: More About Datasets
+##===================================
+
+Question 1:
+Which of the following are true statements about Azure Machine Learning datasets?
+
+(Select all that apply.)
+
+Ans:
+- Datasets are references that point to the data in your storage service; they are not actually copies, so no extra storage cost is incurred. 
+- If you don't have an Azure storage service, you can create a dataset directly from local files, public urls, or an Azure Open Dataset. 
