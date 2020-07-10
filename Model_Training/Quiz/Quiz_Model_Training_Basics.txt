@@ -1,0 +1,25 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Model Training Basics
+##===================================
+
+Question 1:
+Let's review the terms we just introduced. See if you can match each one with the correct description.
+
+Ans:
+DESCRIPTION								TERM
+
+- Data used to tune the values			- Validation data
+  of the hyperparameters.
+- Variables whose value is not 			- Hyperparameters
+  learned during training, but 
+  rather set as a "best guess" 
+  and then tuned.
+- Data used to learn the values 		- Training data
+  of the parameters.
+- Variables whose value is learned		- Parameters
+  during training.
+- Data used to check the performance	- Test data
+  of the final, fully trained model.
