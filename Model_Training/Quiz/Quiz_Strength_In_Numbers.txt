@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Strength in Numbers 
+##===================================
+
+Question 1:
+Luis has been experimenting with a machine learning algorithm that make predictions by calculating the weighted averages of weak classifiers. What is the type of machine learning algorithm Luis is working with?
+
+Ans:
+- Boosting 
