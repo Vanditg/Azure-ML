@@ -1,0 +1,25 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Feature Selection 
+##===================================
+
+Question 1:
+Below are the examples of dimensionality reduction algorithms that we just described. Can you match each one with its description?
+
+Ans:
+DESCRIPTION							ALGORITHM
+
+- A linear dimensionality 			- PCA
+  reduction technique based 
+  mostly on exact mathematical
+  calculations.
+- Encodes a larger number of 		- Feature embedding 
+  features into a smaller number 
+  of "super-features."
+- A dimensionality reduction 		- t-SNE
+  technique based on a 
+  probabilistic approach; useful
+  for the visualization of 
+  multidimensional data.
