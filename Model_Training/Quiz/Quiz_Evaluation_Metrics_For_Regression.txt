@@ -1,0 +1,21 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Evaluation Metrics for Regression
+##===================================
+
+Question 1:
+Below are the regression metrics we just discussed. Can you match each one with the description of what it measures?
+
+Ans:
+WHAT IT MEASURES								METRIC
+
+- How close the regression line is 				- R-Squared
+  to the true values.
+- Square root of the squared differences 		- RMSE
+  between the predicted and actual values.
+- Average of the absolute difference between 	- MAE
+  each prediction and the true value.
+- Strength and direction of the relationship 	- Spearman correlation
+  between predicted and actual values.
