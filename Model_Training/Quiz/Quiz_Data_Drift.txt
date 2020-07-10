@@ -1,0 +1,31 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Data Drift
+##===================================
+
+Question 1:
+Below are the different causes of data drift that we just discussed. Can you match each of them with the correct example?
+
+Ans:
+EXAMPLE										CAUSE OF DATA DRIFT
+
+- A change in customer behavior over time.	- Natural drift in the data
+- A sensor breaks and starts providing 		- Data quality issues
+  inaccurate readings.
+- Two features that used to be correlated 	- Covariate shift
+  are no longer correlated.
+- A sensor is replaced, causing the units 	- Upstream process changes
+  of measurement to change (e.g., from 
+  minutes to seconds).
+  
+Question 2:
+Here's the graph of data-drift magnitude that we looked at in the video:
+In this example, a baseline January dataset was compared with a dataset containing all 2019 data. Which of these statements about the graph are true?
+
+(Select all that apply.)
+
+Ans:
+- The baseline vs. target datasets shows very little difference in January
+- The baseline vs. target datasets shows a lot of difference in August
