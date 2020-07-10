@@ -1,0 +1,16 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Data Import and Transformation
+##===================================
+
+Question 1:
+See if you can match the following descriptions with the data wrangling task they describe.
+
+Ans:
+DESCRIPTION									TASK
+
+- Counting the number of missing values		- Data discovery and exploration
+- Missing values imputation					- Data cleansing 
+- Normalize feature values					- Data restructuring 
