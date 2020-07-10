@@ -1,0 +1,34 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Managing Data
+##===================================
+
+Question 1:
+For each of the descriptions below, mark whether it refers to datastores or datasets.
+
+Ans:
+DESCRIPTION									DATASTORE OR DATASET?
+
+- Answers the question, 					- Dataset
+  "how do I get access to 
+  specific data files?"
+- Answers the question, 					- Datastore
+  "how do I securely connect
+  to the data in my Azure storage?"
+- Keeps connection information internal,	- Datastore
+  so it is not exposed in scripts.
+- Points to specific files in your 			- Dataset
+  underlying storage that you want to 
+  use in your ML experiments.
+  
+Question 2:
+Below are the main processes of the data access workflow. Can you match each process with the correct step?
+
+Ans:
+STEP			PROCESS
+
+- Step 1		- Create a datastore
+- Step 2		- Create a dataset
+- Step 3		- Create a data monitor
