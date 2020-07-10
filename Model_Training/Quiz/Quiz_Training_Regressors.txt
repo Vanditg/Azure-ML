@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Training Regressors
+##===================================
+
+Question 1:
+Suppose that you want to predict the probability that a user will like classical music. What type of problem would this be?
+
+Ans:
+- Regression to values between 0 and 1.
