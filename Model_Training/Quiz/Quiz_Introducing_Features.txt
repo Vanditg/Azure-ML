@@ -1,0 +1,26 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Introducing Features
+##===================================
+
+Question 1:
+Can you match each of these terms with its description?
+
+Ans:
+DESCRIPTION							TERM
+
+- The columns of a data table		- Features
+  or matrix; also known as 
+  fields, or variables.
+- The phenomenon in which an 		- The curse of dimensionality 
+  ML algorithm is not capable 
+  of coping with very large 
+  numbers of features.
+- The process through which we		- Feature engineering 
+  create new features.
+- The process through which we		- Feature selection
+  choose which features will be 
+  used in the model training 
+  process.
