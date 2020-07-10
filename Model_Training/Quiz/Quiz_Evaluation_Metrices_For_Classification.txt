@@ -1,0 +1,23 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Evaluation Metrices for Classification
+##===================================
+
+Question 1:
+As we just saw, the confusion matrix gives us several different metrics we can use to measure the performance of our model. See if you can remember which formula is used to calculate each metric.
+
+Ans:
+FORMULA												METRIC
+
+- TP + TN / TP + FP + FN + TN						- Accuracy
+- TP / TP + FP										- Precision
+- TP / TP + FN 										- Recall
+- (2 * Precision * Recall) / Precision + Recall		- F1 Score
+
+Question 2:
+In the Receiver Operating Characteristics (ROC) chart that we just looked at, the Area Under the Curve (AUC) for the diagonal line is 0.5. What does this indicate?
+
+Ans:
+- A classifier that performs no better than random guessing. 
