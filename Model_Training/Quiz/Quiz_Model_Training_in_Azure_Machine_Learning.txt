@@ -1,0 +1,25 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Model Training in Azure Machine Learning
+##===================================
+
+Question 1:
+Below are some of the components of Azure Machine Learning. Can you match each of them with the correct description?
+
+(We'll get practice working with all of these in the labs, but it will help if you get some general familiarity with them now.)
+
+Ans:
+DESCRIPTION 									COMPONENT
+
+- The centralized place for working with 		- Workspace
+  all the components of the machine learning 
+  process.
+- A container that helps you organize the model	- Experiment 
+  training process.
+- A service that provides snapshots and 		- Model registry 
+  versioning for your trained models.
+- A cloud-based workstation that gives you 		- Compute instance 
+  access to various development environments,
+  such as Jupyter Notebooks.
