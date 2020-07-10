@@ -1,0 +1,26 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Confusion Matrices
+##===================================
+
+Question 1:
+We can use a table like this to organize our model's output. Suppose that we give the classifier test data containing 10 images, and the results are as follows:
+How well has the model performed?
+
+Ans:
+- The model performed well, though not perfectly - there were a few misclassified images 
+
+Question 2:
+OK, here is a different set of results:
+How well has the model performed this time?
+
+Ans:
+- The model performed very badly - it misclassified all of the images
+
+Question 3:
+Which one of the following is incorrect about confusion matrices?
+
+Ans:
+- The sum of FP and TP tells us the number of actual positive cases in the dataset. 
