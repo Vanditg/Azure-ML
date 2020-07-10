@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Evaluating Model Performance 
+##===================================
+
+Question 1:
+A researcher has collected datasets from two neighboring cities in order to develop a model that predicts the sale price of a house based on various features. Which of the following approaches would be best for this researcher?
+
+Ans:
+- Split the data randomly, so that some houses from each city are included in both the training dataset and the test dataset. 
