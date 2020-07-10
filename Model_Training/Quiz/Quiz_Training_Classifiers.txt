@@ -1,0 +1,21 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 3: Model Training 
+## Year: 2020
+## Sub-lesson: Training Classifiers
+##===================================
+
+Question 1:
+As we described in the video, there are three main types of classification problem. Can you mark which type each of these examples belongs to?
+
+Ans:
+EXAMPLE								TYPE
+
+- Classify an image as one 			- Multi-class single-label classification
+  (and only one) of five possible 
+  fruits.
+- Classify medical test results as	- Binary classification
+  "positive" or "negative".
+- Classify music as belonging to 	- Multi-class multi-label classification
+  multiple groups (e.g., "upbeat",
+  "jazzy", "pop").
