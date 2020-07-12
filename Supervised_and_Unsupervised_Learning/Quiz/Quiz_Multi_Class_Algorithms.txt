@@ -1,0 +1,16 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Multi-Class Algorithms
+##===================================
+
+Question 1:
+Which of the following charts or metrics are used when evaluating results of a classification algorithm?
+
+(Select all that apply.)
+
+Ans:
+- ROC Curve
+- Confusion matrix 
+- Recall
