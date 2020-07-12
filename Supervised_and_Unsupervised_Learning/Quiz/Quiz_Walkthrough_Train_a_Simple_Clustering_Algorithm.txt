@@ -1,0 +1,14 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Walkthrough: Train a Simple Clustering Algorithm
+##===================================
+
+Question 1:
+Is this statement true or false?
+
+For the K-Means Clustering algorithm used in the lab, the Number of centroids parameter dictates the number of clusters the algorithm will generate.
+
+Ans:
+- False
