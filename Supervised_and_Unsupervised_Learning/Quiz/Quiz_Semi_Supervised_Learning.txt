@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Semi-Supervised Learnining
+##===================================
+
+Question 1:
+Which of these best describes self training?
+
+Ans:
+- The model is trained with the labeled data, then used to make predictions for the unlabeled data. 
