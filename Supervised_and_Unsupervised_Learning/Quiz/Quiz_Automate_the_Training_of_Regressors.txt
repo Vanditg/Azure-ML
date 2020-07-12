@@ -1,0 +1,14 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Automate the Training of Regressors
+##===================================
+
+Question 1:
+Automated Machine Learning gives users the option to automatically scale and normalize input features. It also gives users the ability to enable additional featurization, such as missing values imputation, encoding, and transforms.
+
+What is the default behavior in Automated Machine Learning to deal with missing values for categorical features?
+
+Ans:
+- Impute with most frequent value 
