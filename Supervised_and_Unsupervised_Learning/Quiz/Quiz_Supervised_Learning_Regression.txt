@@ -1,0 +1,30 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Supervised Learning: Regression
+##===================================
+
+Question 1:
+Can you match each of these types of regression with the appropriate characteristics?
+
+Ans:
+CHARACTERISTICS						REGRESSION TYPE
+
+- Accurate, fast training times		- Decision Forest Regression
+- Accurate, long training times		- Neural Net Regression
+- Fast training, linear model		- Linear Regression
+
+Question 2:
+Match the following hyperparameters with their respective descriptions.
+
+Ans:
+DESCRIPTION										HYPERPARAMETER
+
+- A value that defines the step taken at 		- Number of learning iterations
+  each iteration, before correction.
+- Penalize models to prevent overfitting.		- Learning rate 
+- The maximum number of times the algorithm 	- Gradient descent 
+  processes the training cases.
+- A method that minimizes the amount of error	- L2 regularization weight 
+  at each step of the model training process.
