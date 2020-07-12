@@ -1,0 +1,34 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Supervised Learning: Classification
+##===================================
+
+Question 1:
+As we just discussed, at a high level there are three main categories of classification algorithms. Can you match each of them with the correct description?
+
+Ans:
+DESCRIPTION									TYPE OF CLASSIFICATION
+
+- The classifier chooses from multiple		- Multi-class multi-label classification
+  categories; each output can belong to 
+  one or more categories.
+- The classifier chooses from multiple 		- Multi-class single-label classification
+  categories; each output belongs to 
+  single category only.
+- The classifier choose from only two 		- Binary classification
+  categories; each output belongs to 
+  one or the other.
+  
+Question 2:
+Given the following confusion matrix:
+
+Class		Positive	Negative
+Positive	50			5
+Negative	20			100
+
+What is the value for the Precision metric?
+
+Ans:
+- 0.91
