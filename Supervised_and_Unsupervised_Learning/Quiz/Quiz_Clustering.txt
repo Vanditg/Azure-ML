@@ -1,0 +1,32 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 4: Supervised and Unsupervised Learning
+## Year: 2020
+## Sub-lesson: Clustering
+##===================================
+
+Question 1:
+Here are the main types of clustering algorithms we just discussed. Can you match each one with its description?
+
+Ans:
+DESCRIPTION								TYPE OF CLUSTERING
+
+- Groups members based on how closely	- Density-based clustering
+  they are packed together; can learn 
+  clusters of arbitrary shape.
+- Builds a tree of clusters.			- Hierarchical clustering
+- Groups members based on their 		- Centroid-based clustering
+  distance from the center of the 
+  cluster.
+- Groups members based on the 			- Distribution-based clustering
+  probability of a member belonging
+  to a particular distribution.
+  
+Question 2:
+Which of the following statements are true about the K-means clustering algorithm?
+
+(Select all that apply.)
+
+Ans:
+- K-means is a centroid-based, unsupervised clustering algorithm. 
+- It creates up to a target (K) number of clusters and groups similar members together in a cluster. 
