@@ -1,0 +1,18 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Anomaly Detection
+##===================================
+
+Question 1:
+Which of the following is true about both supervised and unsupervised approaches to anomaly detection?
+
+Ans:
+- The anomaly and normal data points are highly imbalanced. 
+
+Question 2:
+Which of the following is not a typical application of anomaly detection?
+
+Ans:
+- Image recognition
