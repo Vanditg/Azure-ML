@@ -1,0 +1,13 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Classical ML vs. Deep Learning
+##===================================
+
+Question 1:
+Which of the following statements describes most accurately the relationship between classical Machine Learning and Deep Learning?
+
+Ans:
+- Deep Learning algorithms are a special case of Machine Learning algorithms and have the capability of learning accurately complex, non-linear functions from data. 
+
