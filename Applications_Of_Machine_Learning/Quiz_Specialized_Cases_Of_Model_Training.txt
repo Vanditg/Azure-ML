@@ -1,0 +1,17 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Specialized Cases of Model Training
+##===================================
+
+Question 1:
+Each of the approaches listed below can be categorized as a type of supervised learning, unsupervised learning, or reinforcement learning. Can you match them up correctly?
+
+Ans:
+APPROACH								SUPERVISED, UNSUPERVISED, OR REINFORCEMENT
+
+- Markov decision process				- Reinforcement learning
+- Classification						- Supervised learning
+- Similarity learning					- Supervised learning
+- Clustering							- Unsupervised learning
