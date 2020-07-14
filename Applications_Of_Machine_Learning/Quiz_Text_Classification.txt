@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Text Classification
+##===================================
+
+Question 1:
+Which of the following is not a typical step in model training for text classification?
+
+Ans:
+- Document Labeling 
