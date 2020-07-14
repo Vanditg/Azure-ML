@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Feature Learning
+##===================================
+
+Question 1:
+Which of the following is not a form of feature learning?
+
+Ans:
+- Regression
