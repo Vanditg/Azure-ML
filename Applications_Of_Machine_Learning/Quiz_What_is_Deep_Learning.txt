@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: What is Deep Learning?
+##===================================
+
+Question 1:
+Which field emerged to address the problem of learning functions from data without explicit programming?
+
+Ans:
+- Machine Learning
