@@ -1,0 +1,18 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Similarity Learning
+##===================================
+
+Question 1:
+Suppose a streaming service uses similarity learning to compare movies and generate a continuous numerical value (e.g., 0.84) indicating how similar the movies are. This would be an example of similarity learning as…
+
+Ans:
+- Regression
+
+Question 2:
+Which type of recommender system requires the least amount of information about users and items?
+
+Ans:
+- Collaborative filtering recommender
