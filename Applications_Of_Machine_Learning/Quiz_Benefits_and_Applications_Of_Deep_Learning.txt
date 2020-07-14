@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Benefits and Applications of Deep Learning
+##===================================
+
+Question 1:
+Which one of the following statements about deep learning algorithms is not true?
+
+Ans:
+- They usually use less computational resources as compared to other approaches. 
