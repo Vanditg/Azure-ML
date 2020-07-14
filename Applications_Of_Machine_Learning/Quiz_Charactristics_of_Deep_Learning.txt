@@ -1,0 +1,16 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 5: Applications of Machine Learning
+## Year: 2020
+## Sub-lesson: Characteristics of Deep Learning
+##===================================
+
+Question 1:
+Which of the below statements are true about deep learning?
+
+(Select all that apply.)
+
+Ans:
+- It can be very computationally expensive, especially as model complexity increases. 
+- It works well with massive amounts of training data. 
+- It is capable of extracting features automatically. 
