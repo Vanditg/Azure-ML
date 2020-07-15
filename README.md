@@ -19,4 +19,8 @@ Labs - This can be found in the virtual workstation inside the course catalog.
 
 # Managed Services for Machine Learning  
 Quiz - Click [Here](https://github.com/Vanditg/Azure-ML/tree/master/Managed_Services_For_Machine_Learning/Quiz)  
-Labs - This can be found in the virtual workstation inside the course catalog. 
+Labs - This can be found in the virtual workstation inside the course catalog.  
+
+# RespResponsible AI  
+Quiz - Click [Here](https://github.com/Vanditg/Azure-ML/tree/master/Responsible_AI/Quiz)  
+Labs - This can be found in the virtual workstation inside the course catalog.  
