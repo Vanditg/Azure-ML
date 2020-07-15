@@ -1,0 +1,28 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 7: Responsible AI  
+## Year: 2020
+## Sub-lesson: Modern AI: Challenges and Principles
+##===================================
+
+Question 1:
+Below are some of the examples we just discussed. Can you match each with the type of problem it exemplifies?
+
+Ans:
+THIS IS AN EXAMPLE...								...OF THIS PROBLEM:
+
+- In the US alone, it is estimated there 			- Skilled labor deficit 
+  will be a shortage of 250,000 data scientists 
+  by 2025.
+- An advertising system accidentally showed an ad	- Unintentional bias 
+  for high-income jobs to men more often than it 
+  showed the ad to women.
+- Your self driving car is fooled by someone who 	- Adversarial attacks 
+  carefully applied a specially designed sticker 
+  to a stop sign.
+- A video shows a world leader appearing to say 	- Deep Fakes 
+  something they never actually said.
+- Someone deliberately manipulates the public data	- Intentional data poisoning 
+  used for model training.
+- An infinitesimally small change in the input to a - The butterfly effect 
+  model causes huge, poorly understood impact.
