@@ -1,0 +1,34 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 7: Responsible AI  
+## Year: 2020
+## Sub-lesson: Microsoft AI Principles
+##===================================
+
+Question 1:
+Below are the Microsoft AI principles. Can you match each one with the correct description?
+
+Ans:
+DESCRIPTION								PRINCIPLE
+
+- AI systems should empower everyone	- Inclusiveness
+  and engage people
+- AI systems should be understandable	- Transparency 
+- Algorithms and the people who write 	- Accountability 
+  them should be responsible or 
+  answerable for their impacts.
+- AI systems should treat all people	- Fairness
+  fairly
+- AI systems should perform 			- Reliability & Safety
+  consistently and minimize risk.
+- AI systems should protect people 		- Privacy & Security 
+  and their personal data.
+
+Question 2:
+Which two principles are foundational principles that ensure the effectiveness of the other principles?
+
+(Select exactly two options.)
+
+Ans:
+- Accountability
+- Transparency
