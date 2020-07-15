@@ -1,0 +1,14 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 6: Managed Services for Machine Learning 
+## Year: 2020
+## Sub-lesson: Operationalizing Models 
+##===================================
+
+Question 1:
+When you deploy a Machine Learning model used for real-time scoring, or batch inferencing, there are several steps you must follow. Select the required steps in the list below.
+
+Ans:
+- Save and retrieve the model file in any format. 
+- Create a scoring script. 
+- Create a real-time scoring web service. 
