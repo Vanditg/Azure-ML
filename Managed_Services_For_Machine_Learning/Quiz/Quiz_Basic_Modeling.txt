@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 6: Managed Services for Machine Learning 
+## Year: 2020
+## Sub-lesson: Basic Modeling 
+##===================================
+
+Question 1:
+When you train a model in Azure Machine Learning, there are a few steps you must perform, in a particular order. Which of these shows the correct order?
+
+Ans:
+- Create a new experiment for your runs. Submit a script run. After the run successfully completes, register the model. 
