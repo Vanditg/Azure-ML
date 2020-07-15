@@ -1,0 +1,12 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 6: Managed Services for Machine Learning 
+## Year: 2020
+## Sub-lesson: Compute Resources
+##===================================
+
+Question 1:
+Which of the following compute targets are not managed by Azure Machine Learning?
+
+Ans:
+- Azure Container Instances 
