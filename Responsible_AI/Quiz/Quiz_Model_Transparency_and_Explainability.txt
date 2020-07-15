@@ -1,0 +1,17 @@
+##==================================
+## Azure Machine Learning Foundation Course
+## Lesson - 7: Responsible AI  
+## Year: 2020
+## Sub-lesson: Model Transparency & Explainability
+##===================================
+
+Question 1:
+Categorize the following items as relating to direct explainers or meta explainers.
+
+Ans:
+CONCEPT								DIRECT OR META EXPLAINER
+
+- Helps with explainer selection	- Meta Explainer
+- Model agnostic explainer			- Direct Explainer
+- SHAP Tree Explainer				- Direct Explainer
+- Text Explainer					- Meta Explainer
